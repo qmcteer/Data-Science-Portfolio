@@ -1,34 +1,18 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/qmcteer/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
+# **NYC Real Estate Transaction EDA And Modelling Project**
 
-# Header 1
-## Header 2
-### Header 3
+Code with Output: 
+[Link](https://qmcteer.github.io/NYC-Real-Estate-Sales/Data-Project.html)
 
-- Bulleted
-- List
+Final Paper:
+[Link](https://github.com/qmcteer/NYC-Real-Estate-Sales/blob/main/docs/McTeer-Data-Paper-.pdf)
 
-1. Numbered
-2. List
+## **Indiegogo Crowd Funding Causal Inference and Machine Learning Project**
 
-**Bold** and _Italic_ and `Code` text
+[Link](url)
 
-[Link](url) and ![Image](src)
+### 
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qmcteer/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
