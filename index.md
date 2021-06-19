@@ -6,7 +6,7 @@
 
 ### **Indiegogo Crowd Funding Causal Inference and Machine Learning Project**
 
-1. [Data Cleaning](https://qmcteer.github.io/Indiegogo-Project/Data-Cleaning.html)
+1. [Data Cleaning](https://qmcteer.github.io/Indiegogo-/Data-Cleaning.html)
 
 2. dhdgf
 
