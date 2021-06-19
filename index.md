@@ -14,7 +14,7 @@
 
 4. [Prediction Models Code](https://qmcteer.github.io/Indiegogo-/Prediction-Models.html)
 
-5. [Final Paper](https://qmcteer.github.io/Indiegogo-/Empirical-Paper-.html)
+5. [Final Paper](https://github.com/qmcteer/Indiegogo-/blob/main/docs/Empirical-Paper-.pdf)
 
 
 
