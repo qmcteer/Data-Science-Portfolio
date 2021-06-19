@@ -8,7 +8,7 @@
 
 1. [Data Cleaning](https://qmcteer.github.io/Indiegogo-/Data-Cleaning.html)
 
-2. dhdgf
+2. [Exploratory Data Analysis](https://qmcteer.github.io/Indiegogo-/Exploratory-Data-Analysis-html.html)
 
 
 
