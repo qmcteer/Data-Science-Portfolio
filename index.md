@@ -16,5 +16,7 @@
 
 5. [Final Paper](https://github.com/qmcteer/Indiegogo-/blob/main/docs/Empirical-Paper-.pdf)
 
+### **Federal Reserve Bank of Atlanta Public Affairs LinkedIn NLP Project**
 
+1. [Code with Ouput](https://qmcteer.github.io/NLP-LinkedIn/Linked-NLP-Project.html)
 
