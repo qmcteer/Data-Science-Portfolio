@@ -21,7 +21,7 @@
 
 1. [Code with Ouput](https://qmcteer.github.io/NLP-LinkedIn/Linked-NLP-Project.html)
 
-### **Webscraping 30 Most Recent Data Analyst Job Postings from Glassdoor** 
+### **Webscraping 30 Most Recent Data Analyst Job Postings from Glassdoor (Python BeautifulSoup)** 
 
 1. [Webscraping Program](https://qmcteer.github.io/Webscraping/Webscraping-Glassdoor-Data-Analyst-Jobs.html)
 
